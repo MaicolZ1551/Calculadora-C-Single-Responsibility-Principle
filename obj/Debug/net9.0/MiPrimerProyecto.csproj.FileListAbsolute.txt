@@ -1,0 +1,28 @@
+C:\Users\User\Desktop\MiPrimerProyecto\bin\Debug\net9.0\MiPrimerProyecto.exe
+C:\Users\User\Desktop\MiPrimerProyecto\bin\Debug\net9.0\MiPrimerProyecto.deps.json
+C:\Users\User\Desktop\MiPrimerProyecto\bin\Debug\net9.0\MiPrimerProyecto.runtimeconfig.json
+C:\Users\User\Desktop\MiPrimerProyecto\bin\Debug\net9.0\MiPrimerProyecto.dll
+C:\Users\User\Desktop\MiPrimerProyecto\bin\Debug\net9.0\MiPrimerProyecto.pdb
+C:\Users\User\Desktop\MiPrimerProyecto\obj\Debug\net9.0\MiPrimerProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\MiPrimerProyecto\obj\Debug\net9.0\MiPrimerProyecto.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MiPrimerProyecto\obj\Debug\net9.0\MiPrimerProyecto.AssemblyInfo.cs
+C:\Users\User\Desktop\MiPrimerProyecto\obj\Debug\net9.0\MiPrimerProyecto.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MiPrimerProyecto\obj\Debug\net9.0\MiPrimerProyecto.dll
+C:\Users\User\Desktop\MiPrimerProyecto\obj\Debug\net9.0\refint\MiPrimerProyecto.dll
+C:\Users\User\Desktop\MiPrimerProyecto\obj\Debug\net9.0\MiPrimerProyecto.pdb
+C:\Users\User\Desktop\MiPrimerProyecto\obj\Debug\net9.0\MiPrimerProyecto.genruntimeconfig.cache
+C:\Users\User\Desktop\MiPrimerProyecto\obj\Debug\net9.0\ref\MiPrimerProyecto.dll
+E:\proyector GitHub\Calculadora\bin\Debug\net9.0\MiPrimerProyecto.exe
+E:\proyector GitHub\Calculadora\bin\Debug\net9.0\MiPrimerProyecto.deps.json
+E:\proyector GitHub\Calculadora\bin\Debug\net9.0\MiPrimerProyecto.runtimeconfig.json
+E:\proyector GitHub\Calculadora\bin\Debug\net9.0\MiPrimerProyecto.dll
+E:\proyector GitHub\Calculadora\bin\Debug\net9.0\MiPrimerProyecto.pdb
+E:\proyector GitHub\Calculadora\obj\Debug\net9.0\MiPrimerProyecto.GeneratedMSBuildEditorConfig.editorconfig
+E:\proyector GitHub\Calculadora\obj\Debug\net9.0\MiPrimerProyecto.AssemblyInfoInputs.cache
+E:\proyector GitHub\Calculadora\obj\Debug\net9.0\MiPrimerProyecto.AssemblyInfo.cs
+E:\proyector GitHub\Calculadora\obj\Debug\net9.0\MiPrimerProyecto.csproj.CoreCompileInputs.cache
+E:\proyector GitHub\Calculadora\obj\Debug\net9.0\MiPrimerProyecto.dll
+E:\proyector GitHub\Calculadora\obj\Debug\net9.0\refint\MiPrimerProyecto.dll
+E:\proyector GitHub\Calculadora\obj\Debug\net9.0\MiPrimerProyecto.pdb
+E:\proyector GitHub\Calculadora\obj\Debug\net9.0\MiPrimerProyecto.genruntimeconfig.cache
+E:\proyector GitHub\Calculadora\obj\Debug\net9.0\ref\MiPrimerProyecto.dll
